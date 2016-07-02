@@ -15,6 +15,7 @@ VAR2 = 500
  end
 
  def printResults
+ puts "hurair"
  puts "amend testing"
  puts "remove file"
  puts "testing again"
