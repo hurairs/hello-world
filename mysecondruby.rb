@@ -1,6 +1,7 @@
 class Arrays
  def initialize
  puts "Hello World"
+ puts "Changes done"
  end
 end
 

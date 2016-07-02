@@ -18,6 +18,7 @@ VAR2 = 500
  puts "Value of id is #@id"
  puts "Value of name is #@name"
  puts "Value of address of #@address"
+ puts "changes done"
  end
 
  def printWord
