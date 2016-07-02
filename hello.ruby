@@ -3,6 +3,7 @@ BEGIN{
 }
 
 puts "testing another change"
+puts "testing another change"
 puts "Stashed changes"
 puts "Another worlds"
 puts "Bad worlds"
