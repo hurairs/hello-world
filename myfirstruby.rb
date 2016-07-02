@@ -16,6 +16,7 @@ VAR2 = 500
 
  def printResults
  puts "remove file"
+ puts "testing again"
  puts "Value of id is #@id"
  puts "Value of name is #@name"
  puts "Value of address of #@address"
