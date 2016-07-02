@@ -15,6 +15,7 @@ VAR2 = 500
  end
 
  def printResults
+ puts "amend testing"
  puts "remove file"
  puts "testing again"
  puts "Value of id is #@id"
