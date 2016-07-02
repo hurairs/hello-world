@@ -2,6 +2,7 @@ BEGIN{
  puts "inside begin"
 }
 
+puts "remove file"
 puts "changes done"
 puts "testing another change"
 puts "testing another change"
