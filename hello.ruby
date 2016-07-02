@@ -2,6 +2,7 @@ BEGIN{
  puts "inside begin"
 }
 
+puts "changes done"
 puts "testing another change"
 puts "testing another change"
 puts "Stashed changes"
