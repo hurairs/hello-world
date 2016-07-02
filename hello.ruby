@@ -1,8 +1,6 @@
 BEGIN{
  puts "inside begin"
 }
-puts "hurair"
-puts "amend testing"
 puts "testing again"
 
 puts "remove file"
